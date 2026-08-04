@@ -42,8 +42,8 @@ class NGSIMEnvironmentConfig:
     safe_start_rel_speed_max: float = 0.0
     safe_start_min_count: int = 20
 
-    rmse_eval_headway_max: float = 16.0
-    rmse_eval_rel_speed_max: float = 1.0
+    rmse_eval_headway_max: float = 14.5
+    rmse_eval_rel_speed_max: float = 0.1
     rmse_eval_min_count: int = 20
 
     residual_neighbors: int = 16

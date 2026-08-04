@@ -1,0 +1,108 @@
+{
+  "schema": "ngsim_runtime_pool_leakage_audit_v2",
+  "pool_semantics": "matches ngsim_experiment.py, including current record overwrite behavior",
+  "transition_pool_count": 5000,
+  "all_trials_pass": true,
+  "trials": [
+    {
+      "trial_seed": 0,
+      "initial_count": 80,
+      "global_eval_count": 100,
+      "rmse_eval_count": 100,
+      "index_overlap_count": 0,
+      "exact_xy_overlap_count": 0,
+      "participant_temporal_window_overlap_count": 0,
+      "participant_temporal_window_overlaps": []
+    },
+    {
+      "trial_seed": 1,
+      "initial_count": 80,
+      "global_eval_count": 100,
+      "rmse_eval_count": 100,
+      "index_overlap_count": 0,
+      "exact_xy_overlap_count": 0,
+      "participant_temporal_window_overlap_count": 0,
+      "participant_temporal_window_overlaps": []
+    },
+    {
+      "trial_seed": 2,
+      "initial_count": 80,
+      "global_eval_count": 100,
+      "rmse_eval_count": 100,
+      "index_overlap_count": 0,
+      "exact_xy_overlap_count": 0,
+      "participant_temporal_window_overlap_count": 0,
+      "participant_temporal_window_overlaps": []
+    },
+    {
+      "trial_seed": 3,
+      "initial_count": 80,
+      "global_eval_count": 100,
+      "rmse_eval_count": 100,
+      "index_overlap_count": 0,
+      "exact_xy_overlap_count": 0,
+      "participant_temporal_window_overlap_count": 0,
+      "participant_temporal_window_overlaps": []
+    },
+    {
+      "trial_seed": 4,
+      "initial_count": 80,
+      "global_eval_count": 100,
+      "rmse_eval_count": 100,
+      "index_overlap_count": 0,
+      "exact_xy_overlap_count": 0,
+      "participant_temporal_window_overlap_count": 0,
+      "participant_temporal_window_overlaps": []
+    },
+    {
+      "trial_seed": 5,
+      "initial_count": 80,
+      "global_eval_count": 100,
+      "rmse_eval_count": 100,
+      "index_overlap_count": 0,
+      "exact_xy_overlap_count": 0,
+      "participant_temporal_window_overlap_count": 0,
+      "participant_temporal_window_overlaps": []
+    },
+    {
+      "trial_seed": 6,
+      "initial_count": 80,
+      "global_eval_count": 100,
+      "rmse_eval_count": 100,
+      "index_overlap_count": 0,
+      "exact_xy_overlap_count": 0,
+      "participant_temporal_window_overlap_count": 0,
+      "participant_temporal_window_overlaps": []
+    },
+    {
+      "trial_seed": 7,
+      "initial_count": 80,
+      "global_eval_count": 100,
+      "rmse_eval_count": 100,
+      "index_overlap_count": 0,
+      "exact_xy_overlap_count": 0,
+      "participant_temporal_window_overlap_count": 0,
+      "participant_temporal_window_overlaps": []
+    },
+    {
+      "trial_seed": 8,
+      "initial_count": 80,
+      "global_eval_count": 100,
+      "rmse_eval_count": 100,
+      "index_overlap_count": 0,
+      "exact_xy_overlap_count": 0,
+      "participant_temporal_window_overlap_count": 0,
+      "participant_temporal_window_overlaps": []
+    },
+    {
+      "trial_seed": 9,
+      "initial_count": 80,
+      "global_eval_count": 100,
+      "rmse_eval_count": 100,
+      "index_overlap_count": 0,
+      "exact_xy_overlap_count": 0,
+      "participant_temporal_window_overlap_count": 0,
+      "participant_temporal_window_overlaps": []
+    }
+  ]
+}
