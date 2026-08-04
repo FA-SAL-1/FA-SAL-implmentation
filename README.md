@@ -30,7 +30,7 @@ Q3: run_rail_pressure_lf_sweep.sh
 
 Q2: run_penalty_stress_m1.sh, run_penalty_stress_m2.sh, run_penalty_stress_m4.sh, run_penalty_stress_m8.sh, run_penalty_stress_m4_extended_lf_sweep.sh, run_penalty_stress_m8_extended_lf_sweep.sh
 
-Q5: run_penalty_stress_paired_tests.sh
+Q5: run_penalty_stress_m4.sh, run_penalty_stress_m8.sh
 
 ---
 
